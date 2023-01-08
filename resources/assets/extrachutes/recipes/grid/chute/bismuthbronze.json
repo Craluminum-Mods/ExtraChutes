@@ -1,0 +1,48 @@
+[
+    {
+        "ingredientPattern": "I_,_I",
+        "ingredients": {
+            "I": { "type": "item", "code": "chutesection-bismuthbronze" }
+        },
+        "width": 2,
+        "height": 2,
+        "output": { "type": "block", "code": "chute-bismuthbronze-elbow-down-east" }
+    },
+    {
+        "ingredientPattern": "I,I",
+        "ingredients": {
+            "I": { "type": "item", "code": "chutesection-bismuthbronze" }
+        },
+        "width": 2,
+        "height": 1,
+        "output": { "type": "block", "code": "chute-bismuthbronze-straight-ns" }
+    },
+    {
+        "ingredientPattern": "_I_,I_I,_I_",
+        "ingredients": {
+            "I": { "type": "item", "code": "chutesection-bismuthbronze" }
+        },
+        "width": 3,
+        "height": 3,
+        "output": { "type": "block", "code": "chute-bismuthbronze-cross-ground" }
+    },
+    {
+        "ingredientPattern": "_I_,I_I",
+        "ingredients": {
+            "I": { "type": "item", "code": "chutesection-bismuthbronze" }
+        },
+        "width": 3,
+        "height": 2,
+        "output": { "type": "block", "code": "chute-bismuthbronze-t-ns" }
+    },
+    {
+        "ingredientPattern": "_I_,II_",
+        "ingredients": {
+            "I": { "type": "item", "code": "chutesection-bismuthbronze" },
+            "X": { "type": "item", "code": "chutesection-bismuthbronze", "quantity": 2 }
+        },
+        "width": 3,
+        "height": 2,
+        "output": { "type": "block", "code": "chute-bismuthbronze-3way-down-east" }
+    }
+]

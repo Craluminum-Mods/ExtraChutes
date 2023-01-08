@@ -1,0 +1,56 @@
+[
+    { "op": "replace", "condition": { "when": "extrachutes-chute-bismuthbronze-flowrate", "useValue": true }, "path": "/attributes/item-flowrateByType/*-bismuthbronze-*", "file": "extrachutes:blocktypes/chute-cross.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-bismuthbronze-flowrate", "useValue": true }, "path": "/attributes/item-flowrateByType/*-bismuthbronze-*", "file": "extrachutes:blocktypes/chute-straight.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-bismuthbronze-flowrate", "useValue": true }, "path": "/attributes/item-flowrateByType/*-bismuthbronze-*", "file": "extrachutes:blocktypes/chute-t.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-bismuthbronze-flowrate", "useValue": true }, "path": "/attributes/item-flowrateByType/*-bismuthbronze-*", "file": "extrachutes:blocktypes/chute.json", "side": "server" },
+
+    { "op": "replace", "condition": { "when": "extrachutes-chute-blackbronze-flowrate", "useValue": true }, "path": "/attributes/item-flowrateByType/*-blackbronze-*", "file": "extrachutes:blocktypes/chute-cross.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-blackbronze-flowrate", "useValue": true }, "path": "/attributes/item-flowrateByType/*-blackbronze-*", "file": "extrachutes:blocktypes/chute-straight.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-blackbronze-flowrate", "useValue": true }, "path": "/attributes/item-flowrateByType/*-blackbronze-*", "file": "extrachutes:blocktypes/chute-t.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-blackbronze-flowrate", "useValue": true }, "path": "/attributes/item-flowrateByType/*-blackbronze-*", "file": "extrachutes:blocktypes/chute.json", "side": "server" },
+
+    { "op": "replace", "condition": { "when": "extrachutes-chute-brass-flowrate", "useValue": true }, "path": "/attributes/item-flowrateByType/*-brass-*", "file": "extrachutes:blocktypes/chute-cross.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-brass-flowrate", "useValue": true }, "path": "/attributes/item-flowrateByType/*-brass-*", "file": "extrachutes:blocktypes/chute-straight.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-brass-flowrate", "useValue": true }, "path": "/attributes/item-flowrateByType/*-brass-*", "file": "extrachutes:blocktypes/chute-t.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-brass-flowrate", "useValue": true }, "path": "/attributes/item-flowrateByType/*-brass-*", "file": "extrachutes:blocktypes/chute.json", "side": "server" },
+
+    { "op": "replace", "condition": { "when": "extrachutes-chute-iron-flowrate", "useValue": true }, "path": "/attributes/item-flowrateByType/*-iron-*", "file": "extrachutes:blocktypes/chute-cross.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-iron-flowrate", "useValue": true }, "path": "/attributes/item-flowrateByType/*-iron-*", "file": "extrachutes:blocktypes/chute-straight.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-iron-flowrate", "useValue": true }, "path": "/attributes/item-flowrateByType/*-iron-*", "file": "extrachutes:blocktypes/chute-t.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-iron-flowrate", "useValue": true }, "path": "/attributes/item-flowrateByType/*-iron-*", "file": "extrachutes:blocktypes/chute.json", "side": "server" },
+
+    { "op": "replace", "condition": { "when": "extrachutes-chute-steel-flowrate", "useValue": true }, "path": "/attributes/item-flowrateByType/*-steel-*", "file": "extrachutes:blocktypes/chute-cross.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-steel-flowrate", "useValue": true }, "path": "/attributes/item-flowrateByType/*-steel-*", "file": "extrachutes:blocktypes/chute-straight.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-steel-flowrate", "useValue": true }, "path": "/attributes/item-flowrateByType/*-steel-*", "file": "extrachutes:blocktypes/chute-t.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-steel-flowrate", "useValue": true }, "path": "/attributes/item-flowrateByType/*-steel-*", "file": "extrachutes:blocktypes/chute.json", "side": "server" },
+
+    { "op": "replace", "condition": { "when": "extrachutes-chute-tinbronze-flowrate", "useValue": true }, "path": "/attributes/item-flowrateByType/*-tinbronze-*", "file": "extrachutes:blocktypes/chute-cross.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-tinbronze-flowrate", "useValue": true }, "path": "/attributes/item-flowrateByType/*-tinbronze-*", "file": "extrachutes:blocktypes/chute-straight.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-tinbronze-flowrate", "useValue": true }, "path": "/attributes/item-flowrateByType/*-tinbronze-*", "file": "extrachutes:blocktypes/chute-t.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-tinbronze-flowrate", "useValue": true }, "path": "/attributes/item-flowrateByType/*-tinbronze-*", "file": "extrachutes:blocktypes/chute.json", "side": "server" },
+
+    { "op": "replace", "condition": { "when": "extrachutes-chute-molybdochalkos-flowrate", "useValue": true }, "path": "/attributes/item-flowrateByType/*-molybdochalkos-*", "file": "extrachutes:blocktypes/chute-cross.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-molybdochalkos-flowrate", "useValue": true }, "path": "/attributes/item-flowrateByType/*-molybdochalkos-*", "file": "extrachutes:blocktypes/chute-straight.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-molybdochalkos-flowrate", "useValue": true }, "path": "/attributes/item-flowrateByType/*-molybdochalkos-*", "file": "extrachutes:blocktypes/chute-t.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-molybdochalkos-flowrate", "useValue": true }, "path": "/attributes/item-flowrateByType/*-molybdochalkos-*", "file": "extrachutes:blocktypes/chute.json", "side": "server" },
+
+    { "op": "replace", "condition": { "when": "extrachutes-chute-meteoriciron-flowrate", "useValue": true }, "path": "/attributes/item-flowrateByType/*-meteoriciron-*", "file": "extrachutes:blocktypes/chute-cross.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-meteoriciron-flowrate", "useValue": true }, "path": "/attributes/item-flowrateByType/*-meteoriciron-*", "file": "extrachutes:blocktypes/chute-straight.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-meteoriciron-flowrate", "useValue": true }, "path": "/attributes/item-flowrateByType/*-meteoriciron-*", "file": "extrachutes:blocktypes/chute-t.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-meteoriciron-flowrate", "useValue": true }, "path": "/attributes/item-flowrateByType/*-meteoriciron-*", "file": "extrachutes:blocktypes/chute.json", "side": "server" },
+
+    { "op": "replace", "condition": { "when": "extrachutes-chute-lead-flowrate", "useValue": true }, "path": "/attributes/item-flowrateByType/*-lead-*", "file": "extrachutes:blocktypes/chute-cross.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-lead-flowrate", "useValue": true }, "path": "/attributes/item-flowrateByType/*-lead-*", "file": "extrachutes:blocktypes/chute-straight.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-lead-flowrate", "useValue": true }, "path": "/attributes/item-flowrateByType/*-lead-*", "file": "extrachutes:blocktypes/chute-t.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-lead-flowrate", "useValue": true }, "path": "/attributes/item-flowrateByType/*-lead-*", "file": "extrachutes:blocktypes/chute.json", "side": "server" },
+
+    { "op": "replace", "condition": { "when": "extrachutes-chute-gold-flowrate", "useValue": true }, "path": "/attributes/item-flowrateByType/*-gold-*", "file": "extrachutes:blocktypes/chute-cross.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-gold-flowrate", "useValue": true }, "path": "/attributes/item-flowrateByType/*-gold-*", "file": "extrachutes:blocktypes/chute-straight.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-gold-flowrate", "useValue": true }, "path": "/attributes/item-flowrateByType/*-gold-*", "file": "extrachutes:blocktypes/chute-t.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-gold-flowrate", "useValue": true }, "path": "/attributes/item-flowrateByType/*-gold-*", "file": "extrachutes:blocktypes/chute.json", "side": "server" },
+
+    { "op": "replace", "condition": { "when": "extrachutes-chute-silver-flowrate", "useValue": true }, "path": "/attributes/item-flowrateByType/*-silver-*", "file": "extrachutes:blocktypes/chute-cross.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-silver-flowrate", "useValue": true }, "path": "/attributes/item-flowrateByType/*-silver-*", "file": "extrachutes:blocktypes/chute-straight.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-silver-flowrate", "useValue": true }, "path": "/attributes/item-flowrateByType/*-silver-*", "file": "extrachutes:blocktypes/chute-t.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-silver-flowrate", "useValue": true }, "path": "/attributes/item-flowrateByType/*-silver-*", "file": "extrachutes:blocktypes/chute.json", "side": "server" }
+]

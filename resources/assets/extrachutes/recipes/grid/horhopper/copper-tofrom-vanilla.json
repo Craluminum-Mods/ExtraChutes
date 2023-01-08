@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Vanilla hopper to horizontal hopper (copper)",
+        "ingredientPattern": "B",
+        "ingredients": {
+            "B": { "type": "block", "code": "game:hopper" }
+        },
+        "width": 1,
+        "height": 1,
+        "output": { "type": "block", "code": "hopper-copper-west" }
+    },
+    {
+        "name": "Horizontal hopper (copper) to vanilla hopper",
+        "ingredientPattern": "B",
+        "ingredients": {
+            "B": { "type": "block", "code": "hopper-copper-west" }
+        },
+        "recipeGroup": 2,
+        "width": 1,
+        "height": 1,
+        "output": { "type": "block", "code": "game:hopper" }
+    }
+]

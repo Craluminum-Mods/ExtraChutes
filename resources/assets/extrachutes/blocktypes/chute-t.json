@@ -1,0 +1,102 @@
+{
+    "code": "chute",
+    "class": "EC_BlockExtraChute",
+    "entityclass": "ItemFlow",
+    "behaviors": [{ "name": "Lockable" }, { "name": "WrenchOrientable", "properties": { "baseCode": "chute-{material}-{type}" } }],
+    "attributes": {
+        "pullFacesByType": {
+            "*-t-ns": ["up"],
+            "*-t-we": ["up"],
+            "*-t-ud-n": ["up", "south"],
+            "*-t-ud-e": ["up", "west"],
+            "*-t-ud-s": ["up", "north"],
+            "*-t-ud-w": ["up", "east"]
+        },
+        "pushFacesByType": {
+            "*-t-ns": ["north", "south"],
+            "*-t-we": ["west", "east"],
+            "*-t-ud-*": ["down"]
+        },
+        "acceptFromFacesByType": {
+            "*-t-ns": ["north", "south"],
+            "*-t-we": ["west", "east"]
+        },
+        "item-flowrateByType": {
+            "*-bismuthbronze-*": 1,
+            "*-blackbronze-*": 1,
+            "*-brass-*": 1,
+            "*-gold-*": 1,
+            "*-iron-*": 1,
+            "*-lead-*": 1,
+            "*-meteoriciron-*": 1,
+            "*-molybdochalkos-*": 1,
+            "*-silver-*": 1,
+            "*-steel-*": 1,
+            "*-tinbronze-*": 1
+        },
+        "quantitySlotsByType": {
+            "*-bismuthbronze-*": 4,
+            "*-blackbronze-*": 4,
+            "*-brass-*": 4,
+            "*-gold-*": 4,
+            "*-iron-*": 4,
+            "*-lead-*": 4,
+            "*-meteoriciron-*": 4,
+            "*-molybdochalkos-*": 4,
+            "*-silver-*": 4,
+            "*-steel-*": 4,
+            "*-tinbronze-*": 4
+        },
+        "inventoryClassName": "chute"
+    },
+    "variantgroups": [
+        { "code": "material", "states": ["bismuthbronze", "blackbronze", "brass", "gold", "iron", "lead", "meteoriciron", "molybdochalkos", "silver", "steel", "tinbronze"] },
+        { "code": "type", "states": ["t"] },
+        { "code": "side", "states": ["ns", "we", "ud-n", "ud-e", "ud-s", "ud-w"] }
+    ],
+    "creativeinventory": {
+        "general": ["*-ns"],
+        "mechanics": ["*-ns"],
+        "extrachutes": ["*-ns"]
+    },
+    "shapeinventory": { "base": "game:block/metal/chute/{type}", "rotateY": 90 },
+    "shapebytype": {
+        "*-ud-n": { "base": "game:block/metal/chute/{type}", "rotateZ": 90, "rotateY": 90 },
+        "*-ud-e": { "base": "game:block/metal/chute/{type}", "rotateZ": 90, "rotateY": 0 },
+        "*-ud-s": { "base": "game:block/metal/chute/{type}", "rotateZ": 90, "rotateY": 270 },
+        "*-ud-w": { "base": "game:block/metal/chute/{type}", "rotateZ": 90, "rotateY": 180 },
+        "*-ns": { "base": "game:block/metal/chute/{type}", "rotateY": 90 },
+        "*-we": { "base": "game:block/metal/chute/{type}", "rotateY": 0 }
+    },
+    "textures": {
+        "all": { "base": "game:block/metal/sheet/{material}1" }
+    },
+    "blockmaterial": "Metal",
+    "lightAbsorption": 0,
+    "drawtype": "json",
+    "replaceable": 160,
+    "resistance": 1.75,
+    "sidesolid": {
+        "all": false
+    },
+    "sideopaque": {
+        "all": false
+    },
+    "sounds": {
+        "place": "game:block/chute",
+        "break": "game:block/chute",
+        "hit": "game:block/chute",
+        "walk": "game:walk/stone"
+    },
+    "collisionselectionboxByType": {
+        "*-ud-n": { "x1": 0, "y1": 0, "z1": 0.25, "x2": 0.75, "y2": 1, "z2": 0.75, "rotateY": 90 },
+        "*-ud-e": { "x1": 0, "y1": 0, "z1": 0.25, "x2": 0.75, "y2": 1, "z2": 0.75, "rotateY": 0 },
+        "*-ud-s": { "x1": 0, "y1": 0, "z1": 0.25, "x2": 0.75, "y2": 1, "z2": 0.75, "rotateY": 270 },
+        "*-ud-w": { "x1": 0, "y1": 0, "z1": 0.25, "x2": 0.75, "y2": 1, "z2": 0.75, "rotateY": 180 },
+        "*-ns": { "x1": 0.25, "y1": 0.25, "z1": 0, "x2": 0.75, "y2": 1, "z2": 1 },
+        "*-we": { "x1": 0, "y1": 0.25, "z1": 0.25, "x2": 1, "y2": 1, "z2": 0.75 }
+    },
+    "guiTransform": {
+        "scale": 1.22
+    }
+}

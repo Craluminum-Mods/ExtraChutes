@@ -1,0 +1,49 @@
+{
+    "code": "hopper",
+    "class": "EC_BlockExtraHopper",
+    "entityclass": "ItemFlow",
+    "behaviors": [{ "name": "Lockable" }, { "name": "Container" }],
+    "attributes": {
+        "pullFaces": [],
+        "acceptFromFaces": ["up"],
+        "pushFaces": ["down"],
+        "quantitySlotsByType": {
+            "*-bismuthbronze": 4,
+            "*-blackbronze": 4,
+            "*-brass": 4,
+            "*-gold": 4,
+            "*-iron": 4,
+            "*-lead": 4,
+            "*-meteoriciron": 4,
+            "*-molybdochalkos": 4,
+            "*-silver": 4,
+            "*-steel": 4,
+            "*-tinbronze": 4
+        }
+    },
+    "variantgroups": [{ "code": "material", "states": ["bismuthbronze", "blackbronze", "brass", "gold", "iron", "lead", "meteoriciron", "molybdochalkos", "silver", "steel", "tinbronze"] }],
+    "creativeinventory": {
+        "general": ["*"],
+        "mechanics": ["*"],
+        "extrachutes": ["*"]
+    },
+    "blockmaterial": "Metal",
+    "lightAbsorption": 0,
+    "shape": { "base": "game:block/metal/hopperh" },
+    "textures": {
+        "all": { "base": "game:block/metal/sheet/{material}1" }
+    },
+    "sidesolid": {
+        "all": false
+    },
+    "sideopaque": {
+        "all": false
+    },
+    "resistance": 1.75,
+    "sounds": {
+        "place": "game:block/chute",
+        "break": "game:block/chute",
+        "hit": "game:block/chute",
+        "walk": "game:walk/stone"
+    }
+}

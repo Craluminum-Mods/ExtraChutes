@@ -1,0 +1,13 @@
+[
+    { "file": "extrachutes:recipes/grid/hopper/bismuthbronze.json", "op": "add", "path": "/0/enabled", "value": false, "condition": { "when": "extrachutes-hopper-bismuthbronze-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/hopper/blackbronze.json", "op": "add", "path": "/0/enabled", "value": false, "condition": { "when": "extrachutes-hopper-blackbronze-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/hopper/brass.json", "op": "add", "path": "/0/enabled", "value": false, "condition": { "when": "extrachutes-hopper-brass-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/hopper/iron.json", "op": "add", "path": "/0/enabled", "value": false, "condition": { "when": "extrachutes-hopper-iron-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/hopper/steel.json", "op": "add", "path": "/0/enabled", "value": false, "condition": { "when": "extrachutes-hopper-steel-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/hopper/tinbronze.json", "op": "add", "path": "/0/enabled", "value": false, "condition": { "when": "extrachutes-hopper-tinbronze-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/hopper/molybdochalkos.json", "op": "add", "path": "/0/enabled", "value": false, "condition": { "when": "extrachutes-hopper-molybdochalkos-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/hopper/meteoriciron.json", "op": "add", "path": "/0/enabled", "value": false, "condition": { "when": "extrachutes-hopper-meteoriciron-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/hopper/lead.json", "op": "add", "path": "/0/enabled", "value": false, "condition": { "when": "extrachutes-hopper-lead-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/hopper/gold.json", "op": "add", "path": "/0/enabled", "value": false, "condition": { "when": "extrachutes-hopper-gold-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/hopper/silver.json", "op": "add", "path": "/0/enabled", "value": false, "condition": { "when": "extrachutes-hopper-silver-recipe-enabled", "isValue": "false" }, "side": "server" }
+]

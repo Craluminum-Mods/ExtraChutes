@@ -1,0 +1,48 @@
+[
+    {
+        "ingredientPattern": "I_,_I",
+        "ingredients": {
+            "I": { "type": "item", "code": "chutesection-lead" }
+        },
+        "width": 2,
+        "height": 2,
+        "output": { "type": "block", "code": "chute-lead-elbow-down-east" }
+    },
+    {
+        "ingredientPattern": "I,I",
+        "ingredients": {
+            "I": { "type": "item", "code": "chutesection-lead" }
+        },
+        "width": 2,
+        "height": 1,
+        "output": { "type": "block", "code": "chute-lead-straight-ns" }
+    },
+    {
+        "ingredientPattern": "_I_,I_I,_I_",
+        "ingredients": {
+            "I": { "type": "item", "code": "chutesection-lead" }
+        },
+        "width": 3,
+        "height": 3,
+        "output": { "type": "block", "code": "chute-lead-cross-ground" }
+    },
+    {
+        "ingredientPattern": "_I_,I_I",
+        "ingredients": {
+            "I": { "type": "item", "code": "chutesection-lead" }
+        },
+        "width": 3,
+        "height": 2,
+        "output": { "type": "block", "code": "chute-lead-t-ns" }
+    },
+    {
+        "ingredientPattern": "_I_,II_",
+        "ingredients": {
+            "I": { "type": "item", "code": "chutesection-lead" },
+            "X": { "type": "item", "code": "chutesection-lead", "quantity": 2 }
+        },
+        "width": 3,
+        "height": 2,
+        "output": { "type": "block", "code": "chute-lead-3way-down-east" }
+    }
+]

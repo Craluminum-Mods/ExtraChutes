@@ -1,0 +1,48 @@
+[
+    {
+        "ingredientPattern": "I_,_I",
+        "ingredients": {
+            "I": { "type": "item", "code": "chutesection-brass" }
+        },
+        "width": 2,
+        "height": 2,
+        "output": { "type": "block", "code": "chute-brass-elbow-down-east" }
+    },
+    {
+        "ingredientPattern": "I,I",
+        "ingredients": {
+            "I": { "type": "item", "code": "chutesection-brass" }
+        },
+        "width": 2,
+        "height": 1,
+        "output": { "type": "block", "code": "chute-brass-straight-ns" }
+    },
+    {
+        "ingredientPattern": "_I_,I_I,_I_",
+        "ingredients": {
+            "I": { "type": "item", "code": "chutesection-brass" }
+        },
+        "width": 3,
+        "height": 3,
+        "output": { "type": "block", "code": "chute-brass-cross-ground" }
+    },
+    {
+        "ingredientPattern": "_I_,I_I",
+        "ingredients": {
+            "I": { "type": "item", "code": "chutesection-brass" }
+        },
+        "width": 3,
+        "height": 2,
+        "output": { "type": "block", "code": "chute-brass-t-ns" }
+    },
+    {
+        "ingredientPattern": "_I_,II_",
+        "ingredients": {
+            "I": { "type": "item", "code": "chutesection-brass" },
+            "X": { "type": "item", "code": "chutesection-brass", "quantity": 2 }
+        },
+        "width": 3,
+        "height": 2,
+        "output": { "type": "block", "code": "chute-brass-3way-down-east" }
+    }
+]

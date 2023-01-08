@@ -1,0 +1,79 @@
+{
+    "code": "hopper",
+    "class": "EC_BlockExtraHopper",
+    "entityclass": "ItemFlow",
+    "behaviors": [
+        { "name": "Lockable" },
+        { "name": "Container" },
+        {
+            "name": "WrenchOrientable",
+            "properties": { "baseCode": "hopper-{material}" }
+        },
+        { "name": "HorizontalOrientable", "properties": { "dropBlockFace": "west" } }
+    ],
+    "attributes": {
+        "pullFaces": [],
+        "acceptFromFaces": ["up"],
+        "pushFacesByType": {
+            "*-north": ["north"],
+            "*-south": ["south"],
+            "*-west": ["west"],
+            "*-east": ["east"]
+        },
+        "quantitySlotsByType": {
+            "*-bismuthbronze-*": 4,
+            "*-blackbronze-*": 4,
+            "*-brass-*": 4,
+            "*-copper-*": 4,
+            "*-gold-*": 4,
+            "*-iron-*": 4,
+            "*-lead-*": 4,
+            "*-meteoriciron-*": 4,
+            "*-molybdochalkos-*": 4,
+            "*-silver-*": 4,
+            "*-steel-*": 4,
+            "*-tinbronze-*": 4
+        }
+    },
+    "variantgroups": [
+        {
+            "code": "material",
+            "states": ["bismuthbronze", "blackbronze", "brass", "copper", "gold", "iron", "lead", "meteoriciron", "molybdochalkos", "silver", "steel", "tinbronze"]
+        },
+        {
+            "code": "side",
+            "loadFromProperties": "abstract/horizontalorientation"
+        }
+    ],
+    "creativeinventory": {
+        "general": ["*-west"],
+        "mechanics": ["*-west"],
+        "extrachutes": ["*-west"]
+    },
+    "blockmaterial": "Metal",
+    "lightAbsorption": 0,
+    "shape": {
+        "base": "block/hopper-horizontal",
+        "rotateYByType": {
+            "*-east": 270,
+            "*-south": 180,
+            "*-west": 90
+        }
+    },
+    "textures": {
+        "all": { "base": "game:block/metal/sheet/{material}1" }
+    },
+    "sidesolid": {
+        "all": false
+    },
+    "sideopaque": {
+        "all": false
+    },
+    "resistance": 1.75,
+    "sounds": {
+        "place": "game:block/chute",
+        "break": "game:block/chute",
+        "hit": "game:block/chute",
+        "walk": "game:walk/stone"
+    }
+}

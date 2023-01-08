@@ -1,0 +1,21 @@
+[
+    {
+        "ingredientPattern": "B",
+        "ingredients": {
+            "B": { "type": "block", "code": "hopper-lead" }
+        },
+        "width": 1,
+        "height": 1,
+        "output": { "type": "block", "code": "hopper-lead-west" }
+    },
+    {
+        "ingredientPattern": "B",
+        "ingredients": {
+            "B": { "type": "block", "code": "hopper-lead-west" }
+        },
+        "recipeGroup": 2,
+        "width": 1,
+        "height": 1,
+        "output": { "type": "block", "code": "hopper-lead" }
+    }
+]

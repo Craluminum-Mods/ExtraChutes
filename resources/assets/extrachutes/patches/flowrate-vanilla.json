@@ -1,0 +1,6 @@
+[
+    { "op": "replace", "condition": { "when": "extrachutes-chute-vanilla-flowrate", "useValue": true }, "path": "/attributes/item-flowrate", "file": "game:blocktypes/metal/chute-cross.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-vanilla-flowrate", "useValue": true }, "path": "/attributes/item-flowrate", "file": "game:blocktypes/metal/chute-straight.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-vanilla-flowrate", "useValue": true }, "path": "/attributes/item-flowrate", "file": "game:blocktypes/metal/chute-t.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-vanilla-flowrate", "useValue": true }, "path": "/attributes/item-flowrate", "file": "game:blocktypes/metal/chute.json", "side": "server" }
+]

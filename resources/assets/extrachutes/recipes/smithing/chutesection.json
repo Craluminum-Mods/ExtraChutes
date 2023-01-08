@@ -1,0 +1,14 @@
+{
+    "ingredient": {
+        "type": "item",
+        "code": "game:ingot-*",
+        "name": "metal",
+        "allowedVariants": ["bismuthbronze", "blackbronze", "brass", "gold", "iron", "lead", "meteoriciron", "molybdochalkos", "silver", "steel", "tinbronze"]
+    },
+    "pattern": [
+        ["#####", "#___#", "#___#", "#___#", "#####"],
+        ["#####", "#___#", "#___#", "#___#", "#####"]
+    ],
+    "name": "chutesection",
+    "output": { "type": "item", "code": "chutesection-{metal}" }
+}

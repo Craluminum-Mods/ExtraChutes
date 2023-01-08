@@ -1,0 +1,8 @@
+[
+    { "op": "replace", "condition": { "when": "extrachutes-chute-vanilla-quantityslots", "useValue": true }, "path": "/attributes/quantitySlots", "file": "game:blocktypes/metal/chute-cross.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-vanilla-quantityslots", "useValue": true }, "path": "/attributes/quantitySlots", "file": "game:blocktypes/metal/chute-straight.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-vanilla-quantityslots", "useValue": true }, "path": "/attributes/quantitySlots", "file": "game:blocktypes/metal/chute-t.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-vanilla-quantityslots", "useValue": true }, "path": "/attributes/quantitySlots", "file": "game:blocktypes/metal/chute.json", "side": "server" },
+
+    { "op": "add", "condition": { "when": "extrachutes-hopper-vanilla-quantityslots", "useValue": true }, "path": "/attributes/quantitySlots", "file": "game:blocktypes/metal/hopper.json", "side": "server" }
+]

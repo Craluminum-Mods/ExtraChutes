@@ -1,0 +1,7 @@
+{
+    "game:tabname-extrachutes": "Extra Chutes",
+    "format-bold-pastelyellow": "<font weight=\"bold\" color=\"#e7e79f\">{0}</font>", // pastel yellow
+    "format-bold-pastelgreen": "<font weight=\"bold\" color=\"#b4ecb4\">{0}</font>", // pastel green
+    "format-bold-pastelbrown": "<font weight=\"bold\" color=\"#ddaa77\">{0}</font>", // pastel brown
+    "format-bold-pastelblue": "<font weight=\"bold\" color=\"#779ecb\">{0}</font>" // pastel blue
+}

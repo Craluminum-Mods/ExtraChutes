@@ -1,0 +1,37 @@
+[
+    { "file": "extrachutes:recipes/grid/horhopper/copper-tofrom-vanilla.json", "op": "add", "path": "/0/enabled", "value": false, "condition": { "when": "extrachutes-horhopper-copper-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/horhopper/copper-tofrom-vanilla.json", "op": "add", "path": "/1/enabled", "value": false, "condition": { "when": "extrachutes-horhopper-copper-recipe-enabled", "isValue": "false" }, "side": "server" },
+
+    { "file": "extrachutes:recipes/grid/horhopper/bismuthbronze.json", "op": "add", "path": "/0/enabled", "value": false, "condition": { "when": "extrachutes-horhopper-bismuthbronze-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/horhopper/bismuthbronze.json", "op": "add", "path": "/1/enabled", "value": false, "condition": { "when": "extrachutes-horhopper-bismuthbronze-recipe-enabled", "isValue": "false" }, "side": "server" },
+
+    { "file": "extrachutes:recipes/grid/horhopper/blackbronze.json", "op": "add", "path": "/0/enabled", "value": false, "condition": { "when": "extrachutes-horhopper-blackbronze-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/horhopper/blackbronze.json", "op": "add", "path": "/1/enabled", "value": false, "condition": { "when": "extrachutes-horhopper-blackbronze-recipe-enabled", "isValue": "false" }, "side": "server" },
+
+    { "file": "extrachutes:recipes/grid/horhopper/brass.json", "op": "add", "path": "/0/enabled", "value": false, "condition": { "when": "extrachutes-horhopper-brass-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/horhopper/brass.json", "op": "add", "path": "/1/enabled", "value": false, "condition": { "when": "extrachutes-horhopper-brass-recipe-enabled", "isValue": "false" }, "side": "server" },
+
+    { "file": "extrachutes:recipes/grid/horhopper/iron.json", "op": "add", "path": "/0/enabled", "value": false, "condition": { "when": "extrachutes-horhopper-iron-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/horhopper/iron.json", "op": "add", "path": "/1/enabled", "value": false, "condition": { "when": "extrachutes-horhopper-iron-recipe-enabled", "isValue": "false" }, "side": "server" },
+
+    { "file": "extrachutes:recipes/grid/horhopper/steel.json", "op": "add", "path": "/0/enabled", "value": false, "condition": { "when": "extrachutes-horhopper-steel-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/horhopper/steel.json", "op": "add", "path": "/1/enabled", "value": false, "condition": { "when": "extrachutes-horhopper-steel-recipe-enabled", "isValue": "false" }, "side": "server" },
+
+    { "file": "extrachutes:recipes/grid/horhopper/tinbronze.json", "op": "add", "path": "/0/enabled", "value": false, "condition": { "when": "extrachutes-horhopper-tinbronze-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/horhopper/tinbronze.json", "op": "add", "path": "/1/enabled", "value": false, "condition": { "when": "extrachutes-horhopper-tinbronze-recipe-enabled", "isValue": "false" }, "side": "server" },
+
+    { "file": "extrachutes:recipes/grid/horhopper/molybdochalkos.json", "op": "add", "path": "/0/enabled", "value": false, "condition": { "when": "extrachutes-horhopper-molybdochalkos-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/horhopper/molybdochalkos.json", "op": "add", "path": "/1/enabled", "value": false, "condition": { "when": "extrachutes-horhopper-molybdochalkos-recipe-enabled", "isValue": "false" }, "side": "server" },
+
+    { "file": "extrachutes:recipes/grid/horhopper/meteoriciron.json", "op": "add", "path": "/0/enabled", "value": false, "condition": { "when": "extrachutes-horhopper-meteoriciron-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/horhopper/meteoriciron.json", "op": "add", "path": "/1/enabled", "value": false, "condition": { "when": "extrachutes-horhopper-meteoriciron-recipe-enabled", "isValue": "false" }, "side": "server" },
+
+    { "file": "extrachutes:recipes/grid/horhopper/lead.json", "op": "add", "path": "/0/enabled", "value": false, "condition": { "when": "extrachutes-horhopper-lead-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/horhopper/lead.json", "op": "add", "path": "/1/enabled", "value": false, "condition": { "when": "extrachutes-horhopper-lead-recipe-enabled", "isValue": "false" }, "side": "server" },
+
+    { "file": "extrachutes:recipes/grid/horhopper/gold.json", "op": "add", "path": "/0/enabled", "value": false, "condition": { "when": "extrachutes-horhopper-gold-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/horhopper/gold.json", "op": "add", "path": "/1/enabled", "value": false, "condition": { "when": "extrachutes-horhopper-gold-recipe-enabled", "isValue": "false" }, "side": "server" },
+
+    { "file": "extrachutes:recipes/grid/horhopper/silver.json", "op": "add", "path": "/0/enabled", "value": false, "condition": { "when": "extrachutes-horhopper-silver-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/horhopper/silver.json", "op": "add", "path": "/1/enabled", "value": false, "condition": { "when": "extrachutes-horhopper-silver-recipe-enabled", "isValue": "false" }, "side": "server" }
+]

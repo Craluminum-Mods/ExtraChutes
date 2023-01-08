@@ -1,0 +1,81 @@
+[
+    { "op": "replace", "condition": { "when": "extrachutes-chute-bismuthbronze-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-bismuthbronze-*", "file": "extrachutes:blocktypes/chute-cross.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-bismuthbronze-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-bismuthbronze-*", "file": "extrachutes:blocktypes/chute-straight.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-bismuthbronze-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-bismuthbronze-*", "file": "extrachutes:blocktypes/chute-t.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-bismuthbronze-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-bismuthbronze-*", "file": "extrachutes:blocktypes/chute.json", "side": "server" },
+
+    { "op": "replace", "condition": { "when": "extrachutes-chute-blackbronze-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-blackbronze-*", "file": "extrachutes:blocktypes/chute-cross.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-blackbronze-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-blackbronze-*", "file": "extrachutes:blocktypes/chute-straight.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-blackbronze-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-blackbronze-*", "file": "extrachutes:blocktypes/chute-t.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-blackbronze-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-blackbronze-*", "file": "extrachutes:blocktypes/chute.json", "side": "server" },
+
+    { "op": "replace", "condition": { "when": "extrachutes-chute-brass-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-brass-*", "file": "extrachutes:blocktypes/chute-cross.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-brass-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-brass-*", "file": "extrachutes:blocktypes/chute-straight.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-brass-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-brass-*", "file": "extrachutes:blocktypes/chute-t.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-brass-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-brass-*", "file": "extrachutes:blocktypes/chute.json", "side": "server" },
+
+    { "op": "replace", "condition": { "when": "extrachutes-chute-gold-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-gold-*", "file": "extrachutes:blocktypes/chute-cross.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-gold-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-gold-*", "file": "extrachutes:blocktypes/chute-straight.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-gold-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-gold-*", "file": "extrachutes:blocktypes/chute-t.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-gold-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-gold-*", "file": "extrachutes:blocktypes/chute.json", "side": "server" },
+
+    { "op": "replace", "condition": { "when": "extrachutes-chute-iron-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-iron-*", "file": "extrachutes:blocktypes/chute-cross.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-iron-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-iron-*", "file": "extrachutes:blocktypes/chute-straight.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-iron-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-iron-*", "file": "extrachutes:blocktypes/chute-t.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-iron-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-iron-*", "file": "extrachutes:blocktypes/chute.json", "side": "server" },
+
+    { "op": "replace", "condition": { "when": "extrachutes-chute-lead-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-lead-*", "file": "extrachutes:blocktypes/chute-cross.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-lead-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-lead-*", "file": "extrachutes:blocktypes/chute-straight.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-lead-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-lead-*", "file": "extrachutes:blocktypes/chute-t.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-lead-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-lead-*", "file": "extrachutes:blocktypes/chute.json", "side": "server" },
+
+    { "op": "replace", "condition": { "when": "extrachutes-chute-meteoriciron-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-meteoriciron-*", "file": "extrachutes:blocktypes/chute-cross.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-meteoriciron-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-meteoriciron-*", "file": "extrachutes:blocktypes/chute-straight.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-meteoriciron-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-meteoriciron-*", "file": "extrachutes:blocktypes/chute-t.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-meteoriciron-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-meteoriciron-*", "file": "extrachutes:blocktypes/chute.json", "side": "server" },
+
+    { "op": "replace", "condition": { "when": "extrachutes-chute-molybdochalkos-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-molybdochalkos-*", "file": "extrachutes:blocktypes/chute-cross.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-molybdochalkos-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-molybdochalkos-*", "file": "extrachutes:blocktypes/chute-straight.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-molybdochalkos-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-molybdochalkos-*", "file": "extrachutes:blocktypes/chute-t.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-molybdochalkos-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-molybdochalkos-*", "file": "extrachutes:blocktypes/chute.json", "side": "server" },
+
+    { "op": "replace", "condition": { "when": "extrachutes-chute-silver-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-silver-*", "file": "extrachutes:blocktypes/chute-cross.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-silver-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-silver-*", "file": "extrachutes:blocktypes/chute-straight.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-silver-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-silver-*", "file": "extrachutes:blocktypes/chute-t.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-silver-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-silver-*", "file": "extrachutes:blocktypes/chute.json", "side": "server" },
+
+    { "op": "replace", "condition": { "when": "extrachutes-chute-steel-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-steel-*", "file": "extrachutes:blocktypes/chute-cross.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-steel-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-steel-*", "file": "extrachutes:blocktypes/chute-straight.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-steel-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-steel-*", "file": "extrachutes:blocktypes/chute-t.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-steel-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-steel-*", "file": "extrachutes:blocktypes/chute.json", "side": "server" },
+
+    { "op": "replace", "condition": { "when": "extrachutes-chute-tinbronze-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-tinbronze-*", "file": "extrachutes:blocktypes/chute-cross.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-tinbronze-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-tinbronze-*", "file": "extrachutes:blocktypes/chute-straight.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-tinbronze-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-tinbronze-*", "file": "extrachutes:blocktypes/chute-t.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-chute-tinbronze-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-tinbronze-*", "file": "extrachutes:blocktypes/chute.json", "side": "server" },
+
+    { "op": "replace", "condition": { "when": "extrachutes-hopper-bismuthbronze-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-bismuthbronze", "file": "extrachutes:blocktypes/hopper.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-hopper-blackbronze-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-blackbronze", "file": "extrachutes:blocktypes/hopper.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-hopper-brass-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-brass", "file": "extrachutes:blocktypes/hopper.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-hopper-gold-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-gold", "file": "extrachutes:blocktypes/hopper.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-hopper-iron-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-iron", "file": "extrachutes:blocktypes/hopper.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-hopper-lead-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-lead", "file": "extrachutes:blocktypes/hopper.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-hopper-meteoriciron-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-meteoriciron", "file": "extrachutes:blocktypes/hopper.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-hopper-molybdochalkos-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-molybdochalkos", "file": "extrachutes:blocktypes/hopper.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-hopper-silver-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-silver", "file": "extrachutes:blocktypes/hopper.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-hopper-steel-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-steel", "file": "extrachutes:blocktypes/hopper.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-hopper-tinbronze-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-tinbronze", "file": "extrachutes:blocktypes/hopper.json", "side": "server" },
+
+    { "op": "replace", "condition": { "when": "extrachutes-horhopper-bismuthbronze-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-bismuthbronze-*", "file": "extrachutes:blocktypes/horhopper.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-horhopper-blackbronze-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-blackbronze-*", "file": "extrachutes:blocktypes/horhopper.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-horhopper-brass-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-brass-*", "file": "extrachutes:blocktypes/horhopper.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-horhopper-copper-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-copper-*", "file": "extrachutes:blocktypes/horhopper.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-horhopper-gold-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-gold-*", "file": "extrachutes:blocktypes/horhopper.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-horhopper-iron-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-iron-*", "file": "extrachutes:blocktypes/horhopper.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-horhopper-lead-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-lead-*", "file": "extrachutes:blocktypes/horhopper.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-horhopper-meteoriciron-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-meteoriciron-*", "file": "extrachutes:blocktypes/horhopper.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-horhopper-molybdochalkos-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-molybdochalkos-*", "file": "extrachutes:blocktypes/horhopper.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-horhopper-silver-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-silver-*", "file": "extrachutes:blocktypes/horhopper.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-horhopper-steel-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-steel-*", "file": "extrachutes:blocktypes/horhopper.json", "side": "server" },
+    { "op": "replace", "condition": { "when": "extrachutes-horhopper-tinbronze-quantityslots", "useValue": true }, "path": "/attributes/quantitySlotsByType/*-tinbronze-*", "file": "extrachutes:blocktypes/horhopper.json", "side": "server" }
+]

@@ -1,0 +1,67 @@
+[
+    { "file": "extrachutes:recipes/grid/chute/bismuthbronze.json", "op": "add", "path": "/0/enabled", "value": false, "condition": { "when": "extrachutes-chute-bismuthbronze-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/chute/bismuthbronze.json", "op": "add", "path": "/1/enabled", "value": false, "condition": { "when": "extrachutes-chute-bismuthbronze-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/chute/bismuthbronze.json", "op": "add", "path": "/2/enabled", "value": false, "condition": { "when": "extrachutes-chute-bismuthbronze-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/chute/bismuthbronze.json", "op": "add", "path": "/3/enabled", "value": false, "condition": { "when": "extrachutes-chute-bismuthbronze-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/chute/bismuthbronze.json", "op": "add", "path": "/4/enabled", "value": false, "condition": { "when": "extrachutes-chute-bismuthbronze-recipe-enabled", "isValue": "false" }, "side": "server" },
+
+    { "file": "extrachutes:recipes/grid/chute/blackbronze.json", "op": "add", "path": "/0/enabled", "value": false, "condition": { "when": "extrachutes-chute-blackbronze-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/chute/blackbronze.json", "op": "add", "path": "/1/enabled", "value": false, "condition": { "when": "extrachutes-chute-blackbronze-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/chute/blackbronze.json", "op": "add", "path": "/2/enabled", "value": false, "condition": { "when": "extrachutes-chute-blackbronze-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/chute/blackbronze.json", "op": "add", "path": "/3/enabled", "value": false, "condition": { "when": "extrachutes-chute-blackbronze-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/chute/blackbronze.json", "op": "add", "path": "/4/enabled", "value": false, "condition": { "when": "extrachutes-chute-blackbronze-recipe-enabled", "isValue": "false" }, "side": "server" },
+
+    { "file": "extrachutes:recipes/grid/chute/brass.json", "op": "add", "path": "/0/enabled", "value": false, "condition": { "when": "extrachutes-chute-brass-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/chute/brass.json", "op": "add", "path": "/1/enabled", "value": false, "condition": { "when": "extrachutes-chute-brass-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/chute/brass.json", "op": "add", "path": "/2/enabled", "value": false, "condition": { "when": "extrachutes-chute-brass-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/chute/brass.json", "op": "add", "path": "/3/enabled", "value": false, "condition": { "when": "extrachutes-chute-brass-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/chute/brass.json", "op": "add", "path": "/4/enabled", "value": false, "condition": { "when": "extrachutes-chute-brass-recipe-enabled", "isValue": "false" }, "side": "server" },
+
+    { "file": "extrachutes:recipes/grid/chute/iron.json", "op": "add", "path": "/0/enabled", "value": false, "condition": { "when": "extrachutes-chute-iron-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/chute/iron.json", "op": "add", "path": "/1/enabled", "value": false, "condition": { "when": "extrachutes-chute-iron-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/chute/iron.json", "op": "add", "path": "/2/enabled", "value": false, "condition": { "when": "extrachutes-chute-iron-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/chute/iron.json", "op": "add", "path": "/3/enabled", "value": false, "condition": { "when": "extrachutes-chute-iron-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/chute/iron.json", "op": "add", "path": "/4/enabled", "value": false, "condition": { "when": "extrachutes-chute-iron-recipe-enabled", "isValue": "false" }, "side": "server" },
+
+    { "file": "extrachutes:recipes/grid/chute/steel.json", "op": "add", "path": "/0/enabled", "value": false, "condition": { "when": "extrachutes-chute-steel-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/chute/steel.json", "op": "add", "path": "/1/enabled", "value": false, "condition": { "when": "extrachutes-chute-steel-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/chute/steel.json", "op": "add", "path": "/2/enabled", "value": false, "condition": { "when": "extrachutes-chute-steel-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/chute/steel.json", "op": "add", "path": "/3/enabled", "value": false, "condition": { "when": "extrachutes-chute-steel-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/chute/steel.json", "op": "add", "path": "/4/enabled", "value": false, "condition": { "when": "extrachutes-chute-steel-recipe-enabled", "isValue": "false" }, "side": "server" },
+
+    { "file": "extrachutes:recipes/grid/chute/tinbronze.json", "op": "add", "path": "/0/enabled", "value": false, "condition": { "when": "extrachutes-chute-tinbronze-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/chute/tinbronze.json", "op": "add", "path": "/1/enabled", "value": false, "condition": { "when": "extrachutes-chute-tinbronze-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/chute/tinbronze.json", "op": "add", "path": "/2/enabled", "value": false, "condition": { "when": "extrachutes-chute-tinbronze-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/chute/tinbronze.json", "op": "add", "path": "/3/enabled", "value": false, "condition": { "when": "extrachutes-chute-tinbronze-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/chute/tinbronze.json", "op": "add", "path": "/4/enabled", "value": false, "condition": { "when": "extrachutes-chute-tinbronze-recipe-enabled", "isValue": "false" }, "side": "server" },
+
+    { "file": "extrachutes:recipes/grid/chute/molybdochalkos.json", "op": "add", "path": "/0/enabled", "value": false, "condition": { "when": "extrachutes-chute-molybdochalkos-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/chute/molybdochalkos.json", "op": "add", "path": "/1/enabled", "value": false, "condition": { "when": "extrachutes-chute-molybdochalkos-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/chute/molybdochalkos.json", "op": "add", "path": "/2/enabled", "value": false, "condition": { "when": "extrachutes-chute-molybdochalkos-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/chute/molybdochalkos.json", "op": "add", "path": "/3/enabled", "value": false, "condition": { "when": "extrachutes-chute-molybdochalkos-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/chute/molybdochalkos.json", "op": "add", "path": "/4/enabled", "value": false, "condition": { "when": "extrachutes-chute-molybdochalkos-recipe-enabled", "isValue": "false" }, "side": "server" },
+
+    { "file": "extrachutes:recipes/grid/chute/meteoriciron.json", "op": "add", "path": "/0/enabled", "value": false, "condition": { "when": "extrachutes-chute-meteoriciron-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/chute/meteoriciron.json", "op": "add", "path": "/1/enabled", "value": false, "condition": { "when": "extrachutes-chute-meteoriciron-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/chute/meteoriciron.json", "op": "add", "path": "/2/enabled", "value": false, "condition": { "when": "extrachutes-chute-meteoriciron-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/chute/meteoriciron.json", "op": "add", "path": "/3/enabled", "value": false, "condition": { "when": "extrachutes-chute-meteoriciron-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/chute/meteoriciron.json", "op": "add", "path": "/4/enabled", "value": false, "condition": { "when": "extrachutes-chute-meteoriciron-recipe-enabled", "isValue": "false" }, "side": "server" },
+
+    { "file": "extrachutes:recipes/grid/chute/lead.json", "op": "add", "path": "/0/enabled", "value": false, "condition": { "when": "extrachutes-chute-lead-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/chute/lead.json", "op": "add", "path": "/1/enabled", "value": false, "condition": { "when": "extrachutes-chute-lead-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/chute/lead.json", "op": "add", "path": "/2/enabled", "value": false, "condition": { "when": "extrachutes-chute-lead-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/chute/lead.json", "op": "add", "path": "/3/enabled", "value": false, "condition": { "when": "extrachutes-chute-lead-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/chute/lead.json", "op": "add", "path": "/4/enabled", "value": false, "condition": { "when": "extrachutes-chute-lead-recipe-enabled", "isValue": "false" }, "side": "server" },
+
+    { "file": "extrachutes:recipes/grid/chute/gold.json", "op": "add", "path": "/0/enabled", "value": false, "condition": { "when": "extrachutes-chute-gold-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/chute/gold.json", "op": "add", "path": "/1/enabled", "value": false, "condition": { "when": "extrachutes-chute-gold-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/chute/gold.json", "op": "add", "path": "/2/enabled", "value": false, "condition": { "when": "extrachutes-chute-gold-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/chute/gold.json", "op": "add", "path": "/3/enabled", "value": false, "condition": { "when": "extrachutes-chute-gold-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/chute/gold.json", "op": "add", "path": "/4/enabled", "value": false, "condition": { "when": "extrachutes-chute-gold-recipe-enabled", "isValue": "false" }, "side": "server" },
+
+    { "file": "extrachutes:recipes/grid/chute/silver.json", "op": "add", "path": "/0/enabled", "value": false, "condition": { "when": "extrachutes-chute-silver-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/chute/silver.json", "op": "add", "path": "/1/enabled", "value": false, "condition": { "when": "extrachutes-chute-silver-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/chute/silver.json", "op": "add", "path": "/2/enabled", "value": false, "condition": { "when": "extrachutes-chute-silver-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/chute/silver.json", "op": "add", "path": "/3/enabled", "value": false, "condition": { "when": "extrachutes-chute-silver-recipe-enabled", "isValue": "false" }, "side": "server" },
+    { "file": "extrachutes:recipes/grid/chute/silver.json", "op": "add", "path": "/4/enabled", "value": false, "condition": { "when": "extrachutes-chute-silver-recipe-enabled", "isValue": "false" }, "side": "server" }
+]
